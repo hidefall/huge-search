@@ -1,0 +1,197 @@
+* {
+	
+	text-decoration: none;
+	list-style-type: none;
+	
+}
+
+
+
+body {
+	
+
+    background-color: #F1F1F1;
+	font: 14px Arial, sans-serif;
+	color: #c2c2c2;
+	text-decoration: none;
+}
+
+
+ .header{
+	
+	padding: 25px;
+	text-decoration: none;
+	
+}
+
+.colums{
+	
+    
+	vertical-align: top;
+	box-sizing: border-box;
+	
+}
+
+
+.container {
+	margin: 0 auto;
+	padding: 0;
+	
+	
+}
+.search {
+	font-size: 0;
+	
+}
+.search [type="search"] {
+	display: inline-block;
+	border: none;
+	background: none;
+	font-size: 90px;
+	outline: none;
+	font-weight: 700;
+	color: #ec5a62;
+	width:  90%;
+	vertical-align: middle;
+}
+.search [type="submit"] {
+	
+    display: inline-block;
+	padding: 0;
+	width: 75px;
+	height: 75px;
+	background: url(../images/magnifier.svg);
+	cursor: pointer;
+	vertical-align: middle;
+	border: none;
+}
+
+ 
+
+.search-results  {
+	font-size: 0;
+	margin: 0 auto;
+	width: 
+	
+}
+.search-results .colums {
+	display: inline-block;
+	width: 33.333%;
+	font-size: 14px;
+	padding: 0 20px;
+	
+	
+}
+
+
+li { 
+
+  background-color: #E4E4E6;
+  margin-bottom: 5px;
+  text-align: top;
+  padding: 10px;
+  font-size: 20px;
+ 
+  }
+
+
+.list {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.list a {
+	display: block;
+	background: rgba(118,117,128,0.05);
+	border-radius: 6px;
+	margin-bottom: 10px;
+	padding: 10px;
+	text-decoration: none;
+}
+.list img {
+	
+	vertical-align: middle;
+	
+}
+
+.list-text {
+	margin: 0;
+	display: inline-block;
+	vertical-align: middle;
+	
+}
+.list-text{
+	margin: 0 auto;
+	color: #c2c2c2;
+	padding-left: 10px;
+}
+
+.okey {
+	border-radius: 50%;
+}
+
+
+
+
+.list a:hover .list-text {
+	color: #EC5A62;
+}
+
+
+
+
+}
+
+.list li:hover {
+	
+	margin: 0;
+	color: #c2c2c2;
+	width: 100%;
+	padding-left: 10px;
+    
+}
+
+
+
+
+
+h2.People {
+	
+	font-weight: 900;
+	font-size: 18px;
+	text-transform: uppercase;
+	
+}
+
+h2.popular{
+	
+	
+	font-weight: 900;
+	font-size: 18px;
+	text-transform: uppercase;
+	
+	
+}
+
+h2.recent{
+	
+	
+	font-weight: 900;
+	font-size: 18px;
+	text-transform: uppercase;
+
+}
+
+
+
+
+h3 { 
+
+  padding-bottom: 15px;
+  
+
+}
+
+
+
+
